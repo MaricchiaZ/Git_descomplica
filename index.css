@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#p1
+{
+    color: blue;
+    font-size: 10px;
+}
+
+#p2
+{
+    color: red;
+    font-size: 10px;
+}
+
+body {
+    background-color:rgb(255, 255, 161);
+}
